@@ -72,7 +72,7 @@ class MedViewChat:
     def render_sidebar(self):
         """Render sidebar with category selection"""
         with st.sidebar:
-            st.image("https://placehold.co/600x200", caption="MedView Assistant")
+            st.image("https://github.com/harrrisw/medviewmvp/blob/main/emory-university.svg", caption="MedView Assistant")
             
             st.markdown("---")
             
